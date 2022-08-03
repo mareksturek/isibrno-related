@@ -2,8 +2,8 @@
 
 ## Table of Content
 
-  - [ISI Data EDA H2o Brno](https://github.com/mareksturek/job-related/blob/main/misc/0_resume.pdf)  
-  - [ISI Data EDA H2o Montreal](https://github.com/mareksturek/job-related/blob/main/misc/1_introduction.pdf) 
-  - [ISI Data EDA H2o Overall](https://github.com/mareksturek/job-related/blob/main/misc/2_healthcare_pi.pdf)
-  - [ISI Data EDA H2o Overall Pathology](https://github.com/mareksturek/job-related/blob/main/misc/3_kppz.pdf)
+  - [ISI Data EDA H2o Brno](https://github.com/mareksturek/isibrno-related/blob/main/notebooks/isi_data_eda_h2o_brno.ipynb)  
+  - [ISI Data EDA H2o Montreal](https://github.com/mareksturek/isibrno-related/blob/main/notebooks/isi_data_eda_h2o_montreal.ipynb) 
+  - [ISI Data EDA H2o Overall](https://github.com/mareksturek/isibrno-related/blob/main/notebooks/isi_data_eda_h2o_overall.ipynb)
+  - [ISI Data EDA H2o Overall Pathology](https://github.com/mareksturek/isibrno-related/blob/main/notebooks/isi_data_eda_h2o_pathology_overall.ipynb)
   
