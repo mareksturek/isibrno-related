@@ -8,3 +8,4 @@
   - [08-25-22 New ISI Data EDA H2o Brno & Montreal](https://github.com/mareksturek/isibrno-related/blob/main/notebooks/08-25-22%20new_isi_data_h2o_brno_montreal.ipynb)
   - [09-06-22 New ISI Data EDA H2o Brno & Montreal](https://github.com/mareksturek/isibrno-related/blob/main/notebooks/09-06-22%20new_isi_data_h2o_brno_montreal.ipynb)
   - [11-07-22 New ISI Data EDA H2o Brno](https://github.com/mareksturek/isibrno-related/blob/main/notebooks/11-07-22%20new_isi_data_h2o_brno.ipynb)
+  - [11-24-22 New ISI Data EDA H2o Brno & Montreal](https://github.com/mareksturek/isibrno-related/blob/main/notebooks/11-24-22%20new_isi_data_h2o_brno_montreal.ipynb)
