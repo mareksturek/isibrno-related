@@ -2,6 +2,8 @@
 
 ## Table of Content
 
+  - **2022**
+
   - [07-20-22 ISI Data EDA H2o Overall](https://github.com/mareksturek/isibrno-related/blob/main/notebooks/07-20-22_isi_data_eda_h2o_overall.ipynb)  
   - [08-03-22 ISI Data EDA H2o Pathology](https://github.com/mareksturek/isibrno-related/blob/main/notebooks/08-03-22%20isi_data_eda_h2o_pathology_overall.ipynb) 
   - [08-17-22 ISI Data EDA H2o Brno & Montreal](https://github.com/mareksturek/isibrno-related/blob/main/notebooks/08-17-22%20isi_data_h2o_brno_montreal.ipynb)
@@ -9,3 +11,8 @@
   - [09-06-22 New ISI Data EDA H2o Brno & Montreal](https://github.com/mareksturek/isibrno-related/blob/main/notebooks/09-06-22%20new_isi_data_h2o_brno_montreal.ipynb)
   - [11-07-22 New ISI Data EDA H2o Brno](https://github.com/mareksturek/isibrno-related/blob/main/notebooks/11-07-22%20new_isi_data_h2o_brno.ipynb)
   - [11-24-22 New ISI Data EDA H2o Brno & Montreal](https://github.com/mareksturek/isibrno-related/blob/main/notebooks/11-24-22%20new_isi_data_h2o_brno_montreal.ipynb)
+  
+  - **2023**
+  
+  - [16-01-23 New ISI Data EDA Lazy H2o Brno & Montreal](https://github.com/mareksturek/isibrno-related/blob/main/notebooks/16-01-23%20new_isi_data_lazy_h2o_brno_montreal.ipynb)
+  
