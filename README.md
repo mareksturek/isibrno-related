@@ -14,5 +14,5 @@
   
 - **2023**
   
-  - [16-01-23 New ISI Data EDA Lazy H2o Brno & Montreal](https://github.com/mareksturek/isibrno-related/blob/main/notebooks/16-01-23%20new_isi_data_lazy_h2o_brno_montreal.ipynb)
+  - [01-16-23 New ISI Data EDA Lazy H2o Brno & Montreal](https://github.com/mareksturek/isibrno-related/blob/main/notebooks/16-01-23%20new_isi_data_lazy_h2o_brno_montreal.ipynb)
   
