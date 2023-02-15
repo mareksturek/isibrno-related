@@ -15,4 +15,5 @@
 - **2023**
   
   - [01-16-23 New ISI Data Lazy H2o Brno & Montreal](https://github.com/mareksturek/isibrno-related/blob/main/notebooks/16-01-23%20new_isi_data_lazy_h2o_brno_montreal.ipynb)
-  
+  - [02-15-23 Revised Lazy Classifier](https://github.com/mareksturek/isibrno-related/blob/main/notebooks/15-02-23%20revised_Lazy.ipynb)
+  - [02-15-23 Revised AutoML Framework](https://github.com/mareksturek/isibrno-related/blob/main/notebooks/15-02-23%20revised_AutoML.ipynb)
