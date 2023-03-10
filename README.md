@@ -22,6 +22,6 @@
   
   - [16-01-23 > New ISI Data Lazy H2o Brno & Montreal](https://github.com/mareksturek/isibrno-related/blob/main/notebooks/230116%20new_isi_data_lazy_h2o_brno_montreal.ipynb)
   
-  - [15-02-23 > Revised Lazy Classifier](https://github.com/mareksturek/isibrno-related/blob/main/notebooks/230215%20revised_AutoML.ipynb) & [Revised AutoML Framework](https://github.com/mareksturek/isibrno-related/blob/main/notebooks/230215%20revised_Lazy.ipynb)
+  - [15-02-23 > Revised AutoML Framework](https://github.com/mareksturek/isibrno-related/blob/main/notebooks/230215%20revised_AutoML.ipynb) & [Revised Lazy Classifier](https://github.com/mareksturek/isibrno-related/blob/main/notebooks/230215%20revised_Lazy.ipynb)
   
   
