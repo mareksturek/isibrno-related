@@ -25,3 +25,4 @@
   - [15-02-23 > Revised AutoML Framework](https://github.com/mareksturek/isibrno-related/blob/main/notebooks/230215%20revised_AutoML.ipynb) & [Revised Lazy Classifier](https://github.com/mareksturek/isibrno-related/blob/main/notebooks/230215%20revised_Lazy.ipynb)
   
   
+  - [13-03-23 > Comparative study from hospitals](https://github.com/mareksturek/isibrno-related/blob/main/notebooks/230313%20comparative%20study%20from%20hospitals.ipynb) 
