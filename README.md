@@ -26,3 +26,5 @@
   
   
   - [13-03-23 > Comparative study from hospitals](https://github.com/mareksturek/isibrno-related/blob/main/notebooks/230313%20comparative%20study%20from%20hospitals.ipynb) 
+  
+  - [28-03-23 > Revised Comparative study Brno](https://github.com/mareksturek/isibrno-related/blob/main/notebooks/230328%20comparative%20study%20brno.ipynb) & [Revised Comparative study Montreal](https://github.com/mareksturek/isibrno-related/blob/main/notebooks/230328%20comparative%20study%20montreal.ipynb)
